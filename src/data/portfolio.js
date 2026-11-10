@@ -6,7 +6,7 @@ export const portfolioItems = [
     headline: "Making quality furniture feel within reach",
     title: "Col Furniture — Homes Campaign",
     category: "Business",
-    image: "/work/col-furniture.jpg",
+    image: "/work/col-furniture.webp",
     context: "Business client — retail promotion",
     description:
       "Product promotion poster for a furniture brand. Bold typographic hierarchy, clean studio composition and a single clear inquiry action.",
@@ -17,7 +17,7 @@ export const portfolioItems = [
     headline: "Giving a leadership platform its boldest voice",
     title: "Her Leading",
     category: "Leadership",
-    image: "/work/her-leading.png",
+    image: "/work/her-leading.webp",
     context: "Event communication — women's leadership",
     description:
       "Event poster carrying the full offer at a glance: theme, speakers, ticketing, date, time and venue — composed so nothing gets missed.",
@@ -28,7 +28,7 @@ export const portfolioItems = [
     headline: "Positioning African tech as the future being built today",
     title: "Tech Africa Forward — Masterclass",
     category: "Leadership",
-    image: "/work/tech-africa-forward.png",
+    image: "/work/tech-africa-forward.webp",
     context: "Masterclass campaign — tech education",
     description:
       "Tech masterclass poster built around a futuristic AI visual. Date, time, investment and registration engineered for clarity at a distance.",
@@ -39,7 +39,7 @@ export const portfolioItems = [
     headline: "Setting the tone for a continental conversation",
     title: "Africa Leadership Convention",
     category: "Leadership",
-    image: "/work/africa-leadership-convention.png",
+    image: "/work/africa-leadership-convention.webp",
     context: "Convention communication",
     description:
       "Convention poster design — an identity that holds across print and social, from main stage announcements to delegate information.",
@@ -50,7 +50,7 @@ export const portfolioItems = [
     headline: "Making an executive morning worth the RSVP",
     title: "Leadership Breakfast",
     category: "Leadership",
-    image: "/work/leadership-breakfast.png",
+    image: "/work/leadership-breakfast.webp",
     context: "Executive gathering",
     description:
       "Refined invitation treatment for a leadership breakfast — programme and details set with restraint.",
@@ -61,7 +61,7 @@ export const portfolioItems = [
     headline: "Giving a movement its visual momentum",
     title: "LeadHer Africa",
     category: "Leadership",
-    image: "/work/leadher-africa.png",
+    image: "/work/leadher-africa.webp",
     context: "Leadership platform — movement branding",
     description:
       "Poster design supporting a women-in-leadership platform — energy and credibility in the same frame.",
@@ -72,7 +72,7 @@ export const portfolioItems = [
     headline: "Turning a simple walk into a movement moment",
     title: "Walk Poster",
     category: "Events",
-    image: "/work/walk-poster.png",
+    image: "/work/walk-poster.webp",
     context: "Community event",
     description:
       "Walk event communication — energetic poster design with participation details set for quick reading.",
@@ -83,7 +83,7 @@ export const portfolioItems = [
     headline: "Selling nostalgia on a single poster",
     title: "Old School Hangout",
     category: "Events",
-    image: "/work/old-school-hangout.png",
+    image: "/work/old-school-hangout.webp",
     context: "Social event",
     description:
       "Social event poster — a nostalgic theme carried through playful typography and colour.",
@@ -94,7 +94,7 @@ export const portfolioItems = [
     headline: "Making a personal milestone feel like a headline",
     title: "Birthday Poster",
     category: "Events",
-    image: "/work/birthday-poster.png",
+    image: "/work/birthday-poster.webp",
     context: "Personal commission",
     description:
       "Custom celebration design — turning a simple birthday notice into a keepsake worth sharing.",
@@ -105,7 +105,7 @@ export const portfolioItems = [
     headline: "Turning wanderlust into a poster you can almost book",
     title: "Visit To Italy",
     category: "Events",
-    image: "/work/visit-to-italy.png",
+    image: "/work/visit-to-italy.webp",
     context: "Travel promotion",
     description:
       "Travel-themed promotional poster — destination imagery composed with an inviting, exploratory tone.",
@@ -116,7 +116,7 @@ export const portfolioItems = [
     headline: "Keeping a venue's events unmistakably on-brand",
     title: "Brackenhurst — Set One",
     category: "Events",
-    image: "/work/brackenhurst-1.png",
+    image: "/work/brackenhurst-1.webp",
     context: "Venue communication",
     description:
       "Poster design for events hosted at the conference centre — venue-forward communication with clear event information.",
@@ -127,7 +127,7 @@ export const portfolioItems = [
     headline: "Consistency across a growing event series",
     title: "Brackenhurst — Set Two",
     category: "Events",
-    image: "/work/brackenhurst-2.png",
+    image: "/work/brackenhurst-2.webp",
     context: "Venue communication — series design",
     description:
       "Second piece in the Brackenhurst event series — same visual family, adjusted for a different gathering.",
@@ -138,7 +138,7 @@ export const portfolioItems = [
     headline: "Same family, fresh energy",
     title: "Brackenhurst — Set Three",
     category: "Events",
-    image: "/work/brackenhurst-3.png",
+    image: "/work/brackenhurst-3.webp",
     context: "Venue communication — series design",
     description:
       "Third piece in the series — repetition with variation, kept recognisably on-brand.",
@@ -149,7 +149,7 @@ export const portfolioItems = [
     headline: "Announcing a livestream with scroll-stopping clarity",
     title: "TikTok Live",
     category: "Events",
-    image: "/work/tiktok-live.png",
+    image: "/work/tiktok-live.webp",
     context: "Digital event",
     description:
       "Digital event poster — platform-native energy with the go-live details impossible to miss.",
@@ -160,7 +160,7 @@ export const portfolioItems = [
     headline: "A monthly ritual made worth sharing",
     title: "August New Month",
     category: "Events",
-    image: "/work/august-new-month.png",
+    image: "/work/august-new-month.webp",
     context: "Social media content",
     description:
       "New-month greeting poster — calendar-moment design crafted for fast, willing sharing.",
@@ -171,7 +171,7 @@ export const portfolioItems = [
     headline: "Setting a reflective mood before a word is spoken",
     title: "Adullam Cave",
     category: "Ministry",
-    image: "/work/adullum-cave.png",
+    image: "/work/adullum-cave.webp",
     context: "Ministry event",
     description:
       "Ministry event poster — atmospheric visual direction supporting a themed gathering.",
@@ -182,7 +182,7 @@ export const portfolioItems = [
     headline: "Packaging expectation into an unmissable invitation",
     title: "Fresh Anointing",
     category: "Ministry",
-    image: "/work/fresh-anointing.png",
+    image: "/work/fresh-anointing.webp",
     context: "Church event",
     description:
       "Church event poster — reverent, expectant visual language with clear service details.",
@@ -193,7 +193,7 @@ export const portfolioItems = [
     headline: "A worship night with its own sense of time",
     title: "Glory O'clock",
     category: "Ministry",
-    image: "/work/glory-oclock.png",
+    image: "/work/glory-oclock.webp",
     context: "Worship event",
     description:
       "Worship night poster — a titled concept carried through light, type and composition.",
@@ -204,7 +204,7 @@ export const portfolioItems = [
     headline: "Speaking hope in a visual language youth recognise",
     title: "Hope Generation",
     category: "Ministry",
-    image: "/work/hope-generation.png",
+    image: "/work/hope-generation.webp",
     context: "Youth ministry",
     description:
       "Youth ministry communication — hopeful, energetic poster design for a young audience.",
@@ -215,7 +215,7 @@ export const portfolioItems = [
     headline: "Framing a live recording as the event of the season",
     title: "Live Recording — Purity Otieno",
     category: "Ministry",
-    image: "/work/live-recording-purity-otieno.png",
+    image: "/work/live-recording-purity-otieno.webp",
     context: "Music event",
     description:
       "Live music recording poster — artist-forward composition with event and attendance details.",
@@ -226,7 +226,7 @@ export const portfolioItems = [
     headline: "Designing a weekly announcement people actually read",
     title: "Sunday Service",
     category: "Ministry",
-    image: "/work/sunday-service.png",
+    image: "/work/sunday-service.webp",
     context: "Church communication — recurring",
     description:
       "Weekly service announcement design — dependable, legible and on-brand for repeat use every week.",
@@ -237,7 +237,7 @@ export const portfolioItems = [
     headline: "Warm fellowship communication, done simply",
     title: "TWIF Poster",
     category: "Ministry",
-    image: "/work/twif-poster.png",
+    image: "/work/twif-poster.webp",
     context: "Fellowship event",
     description:
       "Fellowship event poster — invitation-style design with a warm, gathering tone.",
@@ -248,7 +248,7 @@ export const portfolioItems = [
     headline: "Carrying celebration through every detail",
     title: "Worship Encounter — Tubonge Society",
     category: "Ministry",
-    image: "/work/worship-encounter-tubonge.png",
+    image: "/work/worship-encounter-tubonge.webp",
     context: "Community worship event",
     description:
       "Worship encounter poster — community event communication with celebratory energy.",
@@ -259,7 +259,7 @@ export const portfolioItems = [
     headline: "Reframing money talk for an ambitious audience",
     title: "Rethink Wealth",
     category: "Business",
-    image: "/work/rethink-wealth.png",
+    image: "/work/rethink-wealth.webp",
     context: "Seminar campaign — financial education",
     description:
       "Financial-empowerment seminar poster — authoritative typography with logistics clearly structured.",
@@ -270,7 +270,7 @@ export const portfolioItems = [
     headline: "Turning a sales programme into a must-attend",
     title: "Sellers Blueprint",
     category: "Business",
-    image: "/work/sellers-blueprint.png",
+    image: "/work/sellers-blueprint.webp",
     context: "Business training",
     description:
       "Business training poster — a selling-programme design built to convert attention into sign-ups.",
@@ -281,7 +281,7 @@ export const portfolioItems = [
     headline: "Making wholesome food look as good as it tastes",
     title: "Valley Harvest Foods",
     category: "Business",
-    image: "/work/valley-harvest-foods.png",
+    image: "/work/valley-harvest-foods.webp",
     context: "Food brand",
     description:
       "Food-brand promotional poster — appetising product presentation with a clean, trustworthy layout.",
@@ -292,7 +292,7 @@ export const portfolioItems = [
     headline: "A premium finish for a design-forward brand",
     title: "Deluxe Designs",
     category: "Business",
-    image: "/work/deluxe-designs.png",
+    image: "/work/deluxe-designs.webp",
     context: "Brand design client",
     description:
       "Brand design work — a premium visual treatment composed for a design-focused client.",
@@ -303,7 +303,7 @@ export const portfolioItems = [
     headline: "A client's voice, translated into visual form",
     title: "Desito's",
     category: "Business",
-    image: "/work/desitos-design.png",
+    image: "/work/desitos-design.webp",
     context: "Client commission",
     description:
       "Client poster design — custom composition tailored to the brand's voice and offer.",
@@ -314,7 +314,7 @@ export const portfolioItems = [
     headline: "Building trust for a children's institution on one page",
     title: "Shining Star Centre",
     category: "Business",
-    image: "/work/shining-star-centre.png",
+    image: "/work/shining-star-centre.webp",
     context: "Institution communication",
     description:
       "Institution poster — friendly, credible design for a children's centre's communication needs.",
@@ -325,7 +325,7 @@ export const portfolioItems = [
     headline: "Our own brand, practising what we preach",
     title: "Cris Creatives — Self Promo",
     category: "Business",
-    image: "/work/cris-creatives.png",
+    image: "/work/cris-creatives.webp",
     context: "Self-initiated",
     description:
       "In-house brand poster — our own visual voice, held to the same standard we hold client work.",
@@ -336,7 +336,7 @@ export const portfolioItems = [
     headline: "A cover that carries the story before page one",
     title: "Dreams From The Dust — Cover",
     category: "Publishing",
-    image: "/work/dreams-from-the-dust.png",
+    image: "/work/dreams-from-the-dust.webp",
     context: "Publishing project — book design",
     description:
       "Front cover composition for Steve Mark's title, built around its theme of rising from humble beginnings.",
@@ -347,7 +347,7 @@ export const portfolioItems = [
     headline: "The back cover that closes the sale",
     title: "Dreams From The Dust — Back",
     category: "Publishing",
-    image: "/work/dreams-from-the-dust-back.png",
+    image: "/work/dreams-from-the-dust-back.webp",
     context: "Publishing project — print layout",
     description:
       "Back-cover design — blurb layout and print-ready finishing for the same title.",
